@@ -31,5 +31,8 @@ The Uber Trip Analysis Dashboard was built in Power BI to uncover insights into 
 - Select measures dynamically to update all visuals
 - Right-click on any data point to drill-through to detailed trip records
 - Clear filters easily using the "Reset Slicers" button
+![image](https://github.com/user-attachments/assets/d63d0c32-4f4f-47dd-ab2b-6256e6381532)
+![image](https://github.com/user-attachments/assets/6356fa6a-447d-4f71-afe6-cc617f7eba65)
+![image](https://github.com/user-attachments/assets/f15109da-ac47-4f24-8f7a-0409c4d85b21)
 
 
